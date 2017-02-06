@@ -1,0 +1,52 @@
+/* Make the main content centered in the page */
+#wrapper {
+	width: 600px;
+	margin: 0 auto;
+}
+
+/* Give the slideshow a defined height and width */
+#slider {
+	min-width: 600px;
+	height: 400px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+/* Scale the images to fit the slideshow */
+#slider > img {
+	height: 400px;
+	display: none;
+	margin: 0 auto;
+}
+
+/* Prev and Next buttons */
+.button {
+	padding: 5px 10px;
+	background-color: #fff;
+	margin-top: 30px;
+	color: #666;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+	outline: none;
+}
+
+.button:hover {
+	color: #444;
+	box-shadow: 1px 1px 2px #888;
+	background-color: #e5e5e5;
+}
+
+.button:active {
+	box-shadow: 0 0 1px #888;
+	background-color: #e5e5e5;
+}
+
+/* Postion the Prev button on the left */
+#prev {
+	float: left;
+}
+
+/* Postion the Next button on the right */
+#next {
+	float: right;
+}
