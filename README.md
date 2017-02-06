@@ -7,6 +7,8 @@ Whilst learning JQuery as part of the Odin Project [jQuery 101 module](http://ww
 * [Video 2](http://www.youtube.com/watch?v=z277ZUHNnnE)
 * [Video 3](http://www.youtube.com/watch?v=XlYsjMPCgfI)
 
+[Check it out](https://clormor.github.io/image-slider/)!
+
 Improvements include;
 
 1. Simpler logic for looping through images. Instead of keeping 2 loop counters and having `if/else` statements to handle overflow, simply use 1 counter and use the modulus to determine which image to display.
