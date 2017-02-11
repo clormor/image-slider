@@ -7,7 +7,7 @@ Whilst learning JQuery as part of the Odin Project [jQuery 101 module](http://ww
 * [Video 2](http://www.youtube.com/watch?v=z277ZUHNnnE)
 * [Video 3](http://www.youtube.com/watch?v=XlYsjMPCgfI)
 
-[Check it out](https://clormor.github.io/image-slider/)!
+Check it out [here](https://clormor.github.io/image-slider/).
 
 Improvements include;
 
